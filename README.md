@@ -8,7 +8,7 @@
 ### Hello, I am Max! 🖐️
 <p>
 
-- ⚡ Studying systems development at Escola SESI, focused in getting my first job in development. 
+- ⚡ Studying systems development at Escola SESI, focused in getting my first job.
 - 💡 Currently studying and building my skills.
 </p>
 
