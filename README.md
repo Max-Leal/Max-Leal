@@ -15,7 +15,7 @@
 ### About me:
 <p>
 
-- 🌱 I am 17 years old, living in Brazil. I have intermediate English skills and experience with Java. I enjoy watching movies and series, reading mangas, playing online games, and constantly working on self-improvement.
+- 🌱 I am 17 years old, living in Brazil. I have intermediate English skills and experience with Java and Python. I enjoy watching movies and series, reading mangas, playing online games, and constantly working on self-improvement.
 
 </p>
 
