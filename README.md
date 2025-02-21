@@ -32,6 +32,6 @@
 <img align="center" alt="htm15" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### Connections
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://](https://br.linkedin.com/in/max-a-leal-da-silva-ab5713333?trk=people-guest_people_search-card))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-a-leal-da-silva-ab5713333/?originalSubdomain=br)
 
 
