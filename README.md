@@ -15,7 +15,7 @@
  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-leal&show_icons=true&theme=radical)
  
  ### Skills
- [![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css&theme=dark)](https://skillicons.dev)]
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css&theme=dark)](https://skillicons.dev)
  
  ### Learning
  [![My Skills](https://skillicons.dev/icons?i=python,js,postman,mysql&theme=dark)](https://skillicons.dev)
