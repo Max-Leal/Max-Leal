@@ -21,9 +21,9 @@
 
 
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-Leal&show_icons=true&theme=radical)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-leal&show_icons=true&theme=radical)
 
-### Programming Languages
+### Skills
 <div style="display: inline_block">
 <img align="center" alt="htm15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
