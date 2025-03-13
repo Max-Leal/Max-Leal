@@ -15,13 +15,9 @@
  ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-leal&show_icons=true&theme=radical)
  
  ### Skills
- <div style="display: inline_block">
- <img align="center" alt="htm15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
- </div>
- [![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css&theme=dark)](https://skillicons.dev)
+ ![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css&theme=dark)](https://skillicons.dev)
  
  ### Learning
- <img align="center" alt="htm15" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  [![My Skills](https://skillicons.dev/icons?i=python,js,postman,mysql&theme=dark)](https://skillicons.dev)
  
  ### IDEs
