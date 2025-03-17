@@ -22,7 +22,7 @@
 </p>
 
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-leal&show_icons=true&theme=radical)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-leal&show_icons=true&theme=tokyonight)
 
 
 ### Skills
