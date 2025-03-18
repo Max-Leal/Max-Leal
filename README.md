@@ -10,14 +10,13 @@
 - 🎮 Passionate about online gaming, TV series, and continuous self-improvement.
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Max-leal&show_icons=true&theme=tokyonight)](https://github.com/Max-leal)
-
-<div>
-    <!-- Linguagens mais usadas -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-leal&layout=compact&theme=tokyonight" alt="Top Languages">
+<div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Max-leal&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
 
 ## Skills and Technologies
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-leal&layout=compact&theme=tokyonight" alt="Top Languages"></div>
+
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css&theme=dark)](https://skillicons.dev)
 
