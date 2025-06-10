@@ -16,7 +16,7 @@
 ## Skills and Technologies
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-leal&layout=compact&theme=tokyonight" alt="Top Languages"></div>
 
-### Languages
+### Languages and technologies
 [![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css,js&theme=dark)](https://skillicons.dev)
 
 ### Currently Learning
