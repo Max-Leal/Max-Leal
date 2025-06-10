@@ -16,11 +16,11 @@
 ## Skills and Technologies
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-leal&layout=compact&theme=tokyonight" alt="Top Languages"></div>
 
-### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css&theme=dark)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css,js&theme=dark)](https://skillicons.dev)
 
 ### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=python,js,postman,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postman,mysql&theme=dark)](https://skillicons.dev)
 
 ### Tools and IDEs
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode&theme=dark)](https://skillicons.dev)
