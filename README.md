@@ -5,8 +5,8 @@
 
 ## About Me
 - 🎓 Systems Development student at Escola SESI.
-- 🌱 I'm 17 years old and live in Brazil.
-- 🔧 Experienced with Java and Python.
+- 🌱 I'm 18 years old and live in Brazil.
+- 🔧 Experienced with Java.
 - 🎮 Passionate about online gaming, TV series, and continuous self-improvement.
 
 ## GitHub Stats
