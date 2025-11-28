@@ -16,7 +16,7 @@
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-leal&layout=compact&theme=tokyonight" alt="Top Languages"></div>
 
 ### Languages and technologies
-[![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css,js,postman,mysql,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,html,css,js,postman,mysql,docker&theme=dark)](https://skillicons.dev)
 
 ### Tools and IDEs
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode&theme=dark)](https://skillicons.dev)
