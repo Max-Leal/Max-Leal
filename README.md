@@ -22,6 +22,6 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode&theme=dark)](https://skillicons.dev)
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-a-leal-da-silva-ab5713333/?originalSubdomain=br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/max-augusto-leal-da-silva-ab5713333)
 
 ---
