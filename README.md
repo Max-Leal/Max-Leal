@@ -23,5 +23,6 @@
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/max-augusto-leal-da-silva-ab5713333)
+[![Portfolio](https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge)](https://portfolio-max-iota.vercel.app)
 
 ---
