@@ -1,28 +1,18 @@
 <!-- Custom title and style -->
-<div align="center" style="background: linear-gradient(to bottom, #0D1117, #1b2a3d); padding: 20px; border-radius: 10px; color: white;">
-  <h1>Hi there 🌎</h1>
-</div>
 
 ## About Me
-- 🎓 Systems Development student at Escola SESI.
-- 🌱 I'm 18 years old and live in Brazil.
-- 🎮 Passionate about online gaming, TV series, and continuous self-improvement.
+- 💻 Full Stack Developer
+- 🎓 Technical Course in Systems Development (Completed)
+- 🎓 Studying Systems Analysis and Development at UniSenai
+- 🌐 DevOps & Java Development Courses – Blusoft
+- 📚 English – B1 (Intermediate)
 
-## GitHub Stats
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-leal&theme=tokyonight)](https://github.com/Max-leal/github-readme-stats)
 
-## Skills and Technologies
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-leal&layout=compact&theme=tokyonight" alt="Top Languages"></div>
-
-### Languages and technologies
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,html,css,js,postman,mysql,docker&theme=dark)](https://skillicons.dev)
 
-### Tools and IDEs
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode&theme=dark)](https://skillicons.dev)
+---
 
-## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/max-augusto-leal-da-silva-ab5713333)
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge)](https://portfolio-max-iota.vercel.app)
-
----
